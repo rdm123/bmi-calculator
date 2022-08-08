@@ -1,6 +1,7 @@
 body {
     background:url('https://us.123rf.com/450wm/ssstocker/ssstocker1609/ssstocker160900170/63054234-healthy-lifestyle-heart-emblem-health-healthy-food-and-active-daily-routine-flat-icons-vector-banner.jpg?ver=6');
     text-align: center;
+    background-repeat:no-repeat;
 }
 
 button {
